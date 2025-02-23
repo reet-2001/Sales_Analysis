@@ -13,7 +13,7 @@ metrics. Also, suggest reasons for their performance di erences.
 
 
 
-# Part 2: Target Achievement Analysis 
+### Part 2: Target Achievement Analysis 
 
 • Using the Sales Target dataset, calculate the percentage change in target sales 
 for the Furniture category month-over-month. 
@@ -23,7 +23,7 @@ Suggest strategies for aligning target expectations with actual performance
 trends.
 
 
-# Part 3: Regional Performance Insights
+### Part 3: Regional Performance Insights
 
 • From the List of Orders dataset, identify the top 5 states with the highest order 
 count. For each of these states, calculate the total sales and average profit. 
